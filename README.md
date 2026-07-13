@@ -1,6 +1,6 @@
 #🧠 NIRVANA GPT
-NIRVANA GPT
-is a chracter level language model. 
+
+NIRVANA GPT is a chracter level language model. 
 built completely in PyTorch as a learning and research project.
 The goal of this project is to deeply understand every component of LLMs.
 
